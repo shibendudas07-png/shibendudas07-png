@@ -1,9 +1,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/shibendudas07-png/shibendudas07-png/main/banner.jpeg">
 </p>
-## 👨‍💻 About Me
-
-I’m currently working on Python Development projects and strengthening my Data Structures & Algorithms skills.<br><br> I’m looking to collaborate on Open Source, Web Development, and Software Engineering projects.<br><br> I’m looking for help with System Design, Cloud Computing, and scalable application development.<br><br> I’m currently learning Operating Systems, Database Management Systems, Computer Networks, and Backend Development.<br><br> Ask me about Python, C++, Data Structures & Algorithms, Web Development, and Problem Solving.<br><br> I enjoy building projects that solve real-world problems and continuously exploring new technologies.<br>
+# 💫 About Me:
+🔭 I’m currently working on Python Development projects and strengthening my Data Structures & Algorithms skills.<br><br>👯 I’m looking to collaborate on Open Source, Web Development, and Software Engineering projects.<br><br>🤝 I’m looking for help with System Design, Cloud Computing, and scalable application development.<br><br>🌱 I’m currently learning Operating Systems, Database Management Systems, Computer Networks, and Backend Development.<br><br>💬 Ask me about Python, C++, Data Structures & Algorithms, Web Development, and Problem Solving.<br><br>⚡ Fun fact: I enjoy building projects that solve real-world problems and continuously exploring new technologies.<br>
 
 
 ## 🌐 Socials:
